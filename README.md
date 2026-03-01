@@ -6,7 +6,7 @@ This API serves as the backend for the Vue 3 Todo Application.
 
 Frontend repository:
 
-👉 https://github.com/YOUR_USERNAME/todo-vue-frontend
+👉 https://github.com/widdruid/secure-todo-vue-ui
 
 ---
 
